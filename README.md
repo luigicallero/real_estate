@@ -1,6 +1,6 @@
 # Real Estate NFT DApp - Learning along with Greg from DappUniversity
 
-Continue from https://www.youtube.com/watch?v=cGQHXmCS94M&t=5101s&ab_channel=DappUniversity at minute 24:31
+Continue from https://www.youtube.com/watch?v=cGQHXmCS94M&t=5101s&ab_channel=DappUniversity at minute 37:42
 
 ## Technology Stack & Tools
 
